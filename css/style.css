@@ -1,0 +1,21 @@
+
+#d1{
+    border: 1px solid #000;
+    background-color: green; 
+    position:relative;
+    width: 300px;
+    height: 200px;
+    margin: 10px 15px 20px 25px;
+    /* margin-top: ;
+    margin-bottom: ; */
+    /* padding: 50px; */
+}
+#d2{
+    width: 100px;
+    height: 100px;
+    background-color: red; 
+    position:absolute;
+    top: 50px;
+    left: 100px;
+    border-radius: 50%;
+}
